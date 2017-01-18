@@ -1,8 +1,8 @@
 # icons
 
-<img src="promo/icons_dribbble.jpg" width="450">
-
 ### Sketch template for generating all iOS 10 App icon sizes
+
+<img src="promo/icons_dribbble.jpg" width="450">
 
 <img src="promo/icons_template.jpg">
 
