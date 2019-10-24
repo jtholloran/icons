@@ -1,13 +1,13 @@
 # icons
 
-### Sketch template for generating all iOS 12 app icon sizes
+### Sketch template for generating all iOS 7 to 13 app icon sizes
 
 <img src="promo/icons_dribbble.jpg" width="450">
 
 ### Open the Sketch file to view step-by-step instructions.
 
 #### How it Works
-This template was created by cross-referencing [Apple's graphics resources](https://developer.apple.com/ios/human-interface-guidelines/resources/) and [Apple's developer guide](https://developer.apple.com/library/content/qa/qa1686/_index.html).
+The template was created by referencing [Apple’s Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/) and XCode v11.0 Assets.xcassets AppIcon template.
 
 Design your icon inside the 1024x1024 symbol. The [Sketch](https://www.sketchapp.com/) template uses that symbol to display (in real time) every app icon size you need for your iPhone or iPad app.
 
